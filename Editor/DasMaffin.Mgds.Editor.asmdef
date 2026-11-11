@@ -1,0 +1,18 @@
+{
+    "name": "DasMaffin.Mgds.Editor",
+    "rootNamespace": "DasMaffin.Mgds.Editor",
+    "references": [
+        "DasMaffin.Mgds"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
