@@ -4,7 +4,7 @@
   "displayName": "MGDS - Maffin's Gamedev Services",
   "description": "Sign players in, save files, leaderboards, remote config, reports and push messages for Unity, through Maffin's Gamedev Services (MGDS). Put one MGDS Manager in your first scene and call everything on it.",
   "unity": "2021.3",
-  "documentationUrl": "https://www.dasmaffin.com/Mgds/Docs/sdk/unity",
+  "documentationUrl": "https://www.dasmaffin.com/Mgds/Docs/unity",
   "dependencies": {
     "com.unity.nuget.newtonsoft-json": "3.2.1"
   },

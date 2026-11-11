@@ -11,7 +11,7 @@ float speed = Mgds.Config.GetFloat("speed", 1f);
 Mgds.Push.On("MaintenanceWarning", m => banner.Show(m.Get<string>("message")));
 ```
 
-**Documentation: [dasmaffin.com/Mgds/Docs/sdk/unity](https://www.dasmaffin.com/Mgds/Docs/sdk/unity)**
+**Documentation: [dasmaffin.com/Mgds/Docs/unity](https://www.dasmaffin.com/Mgds/Docs/unity)**
 
 ## Install
 

@@ -7,7 +7,7 @@ namespace DasMaffin.Mgds.Editor
     [CustomEditor(typeof(MgdsManager))]
     public sealed class MgdsManagerEditor : UnityEditor.Editor
     {
-        private const string Docs = "https://www.dasmaffin.com/Mgds/Docs/sdk/unity";
+        private const string Docs = "https://www.dasmaffin.com/Mgds/Docs/unity";
 
         public override void OnInspectorGUI()
         {
